@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="196" viewBox="0 0 270 196" role="img" aria-label="Merged: OpenAI's apply_patch tool in langchain-openai, +401 −18 across 9 files">
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.grow { transform-box: fill-box; transform-origin: 0 50%; animation: grow 1.1s cubic-bezier(.2,.7,.2,1) both; }
+.rise { animation: rise .6s ease-out both; }
+@keyframes grow { from { transform: scaleX(0); } }
+@keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="269" height="195" rx="12" fill="#151b23" stroke="#3d444d"/><text x="18" y="30" font-size="11" font-weight="600" letter-spacing="1.2" fill="#86a6ff">OPEN SOURCE · LANGCHAIN</text>
+<rect x="18" y="42" width="116" height="34" rx="17" fill="#ab7df8"/>
+<g transform="translate(36 59)" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"><circle cx="0" cy="-6.5" r="2.6"/><circle cx="0" cy="7" r="2.6"/><circle cx="9.5" cy="2.5" r="2.6"/><path d="M0 -3.9 V4.4"/><path d="M0 -3.9 C0 1 3.5 2.5 6.9 2.5"/></g>
+<text x="56" y="65" font-size="17" font-weight="700" fill="#fff">Merged</text>
+<text x="18" y="102" font-size="13" fill="#9198a1">OpenAI's apply_patch tool</text>
+<text x="18" y="120" font-size="13" fill="#9198a1">in langchain-openai</text>
+<text x="18" y="160" font-size="20" font-weight="700" fill="#3fb950">+401</text>
+<text x="70" y="160" font-size="20" font-weight="700" fill="#f85149">−18</text>
+<text x="112" y="160" font-size="13" fill="#9198a1">across 9 files</text>
+<rect class="grow" x="18" y="171" width="223.95" height="8" rx="2" fill="#3fb950" style="animation-delay:0.3s"/>
+<rect class="grow" x="243.95" y="171" width="8.05" height="8" rx="2" fill="#f85149" style="animation-delay:1.2s"/>
+</svg>
