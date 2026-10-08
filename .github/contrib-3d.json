@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "contrib-light.svg",
+    "growingAnimation": true,
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#1f2328",
+    "strongColor": "#2448d8",
+    "weakColor": "#59636e",
+    "radarColor": "#2448d8",
+    "contribColors": [
+      "#ebedf0",
+      "#c7d3ff",
+      "#8ea6ff",
+      "#4d6ff0",
+      "#2448d8"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "contrib-dark.svg",
+    "growingAnimation": true,
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#f0f6fc",
+    "strongColor": "#86a6ff",
+    "weakColor": "#9198a1",
+    "radarColor": "#86a6ff",
+    "contribColors": [
+      "#161b22",
+      "#1b2a5c",
+      "#2a43a8",
+      "#4f74f0",
+      "#86a6ff"
+    ]
+  }
+]
